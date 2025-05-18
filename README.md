@@ -63,4 +63,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Myua is licensed under [Unlicense license](LICENSE)
+Myua is licensed under [WTFPL license](LICENSE)
